@@ -1,4 +1,4 @@
-## Imagen do Card
+## Imagem do Card
 <img src="img/site.png"> 
 
 
